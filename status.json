@@ -1,0 +1,40 @@
+﻿{
+    "locations":  [
+                      {
+                          "location":  "BB",
+                          "ip":  "87.197.172.14",
+                          "status":  "UP",
+                          "latency":  28,
+                          "lastCheck":  "2026-10-07 11:43:09"
+                      },
+                      {
+                          "location":  "KE",
+                          "ip":  "87.197.172.133",
+                          "status":  "UP",
+                          "latency":  8,
+                          "lastCheck":  "2026-10-07 11:43:09"
+                      },
+                      {
+                          "location":  "TN",
+                          "ip":  "87.197.172.147",
+                          "status":  "UP",
+                          "latency":  32,
+                          "lastCheck":  "2026-10-07 11:43:09"
+                      },
+                      {
+                          "location":  "Puchov",
+                          "ip":  "87.197.130.143",
+                          "status":  "UP",
+                          "latency":  25,
+                          "lastCheck":  "2026-10-07 11:43:09"
+                      },
+                      {
+                          "location":  "ZA",
+                          "ip":  "158.255.29.230",
+                          "status":  "UP",
+                          "latency":  6,
+                          "lastCheck":  "2026-10-07 11:43:09"
+                      }
+                  ],
+    "generatedAt":  "2026-10-07 11:43:09"
+}
