@@ -1,4 +1,12 @@
 {
-  "generatedAt": "",
-  "incidents": []
+  "generatedAt": "2026-10-12 15:30:00",
+  "incidents": [
+    {
+      "location": "V_Bardejov",
+      "status": "Active",
+      "startedAt": "2026-10-12 15:00:00",
+      "endedAt": null,
+      "durationMinutes": null
+    }
+  ]
 }
