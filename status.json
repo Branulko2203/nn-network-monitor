@@ -4,236 +4,236 @@
                           "location":  "BA",
                           "status":  "DOWN",
                           "latency":  null,
-                          "lastCheck":  "2026-10-25 19:09:50"
+                          "lastCheck":  "2026-10-25 19:14:49"
                       },
                       {
                           "location":  "BA-Plynarenska",
-                          "status":  "DOWN",
-                          "latency":  null,
-                          "lastCheck":  "2026-10-25 19:09:50"
+                          "status":  "UP",
+                          "latency":  2,
+                          "lastCheck":  "2026-10-25 19:14:49"
                       },
                       {
                           "location":  "BB",
-                          "status":  "DOWN",
-                          "latency":  null,
-                          "lastCheck":  "2026-10-25 19:09:50"
+                          "status":  "UP",
+                          "latency":  25,
+                          "lastCheck":  "2026-10-25 19:14:49"
                       },
                       {
                           "location":  "KE",
-                          "status":  "DOWN",
-                          "latency":  null,
-                          "lastCheck":  "2026-10-25 19:09:50"
+                          "status":  "UP",
+                          "latency":  9,
+                          "lastCheck":  "2026-10-25 19:14:49"
                       },
                       {
                           "location":  "NR",
-                          "status":  "DOWN",
-                          "latency":  null,
-                          "lastCheck":  "2026-10-25 19:09:50"
+                          "status":  "UP",
+                          "latency":  24,
+                          "lastCheck":  "2026-10-25 19:14:49"
                       },
                       {
                           "location":  "PO",
-                          "status":  "DOWN",
-                          "latency":  null,
-                          "lastCheck":  "2026-10-25 19:09:50"
+                          "status":  "UP",
+                          "latency":  17,
+                          "lastCheck":  "2026-10-25 19:14:49"
                       },
                       {
                           "location":  "PP",
-                          "status":  "DOWN",
-                          "latency":  null,
-                          "lastCheck":  "2026-10-25 19:09:50"
+                          "status":  "UP",
+                          "latency":  30,
+                          "lastCheck":  "2026-10-25 19:14:49"
                       },
                       {
                           "location":  "TN",
-                          "status":  "DOWN",
-                          "latency":  null,
-                          "lastCheck":  "2026-10-25 19:09:50"
+                          "status":  "UP",
+                          "latency":  31,
+                          "lastCheck":  "2026-10-25 19:14:49"
                       },
                       {
                           "location":  "TT",
-                          "status":  "DOWN",
-                          "latency":  null,
-                          "lastCheck":  "2026-10-25 19:09:50"
+                          "status":  "UP",
+                          "latency":  23,
+                          "lastCheck":  "2026-10-25 19:14:49"
                       },
                       {
                           "location":  "V_Bardejov",
-                          "status":  "DOWN",
-                          "latency":  null,
-                          "lastCheck":  "2026-10-25 19:09:50"
+                          "status":  "UP",
+                          "latency":  32,
+                          "lastCheck":  "2026-10-25 19:14:49"
                       },
                       {
                           "location":  "V_Brezno",
-                          "status":  "DOWN",
-                          "latency":  null,
-                          "lastCheck":  "2026-10-25 19:09:50"
+                          "status":  "UP",
+                          "latency":  26,
+                          "lastCheck":  "2026-10-25 19:14:49"
                       },
                       {
                           "location":  "V_Humenne",
-                          "status":  "DOWN",
-                          "latency":  null,
-                          "lastCheck":  "2026-10-25 19:09:50"
+                          "status":  "UP",
+                          "latency":  32,
+                          "lastCheck":  "2026-10-25 19:14:49"
                       },
                       {
                           "location":  "V_LiptovskyMikulas",
                           "status":  "DOWN",
                           "latency":  null,
-                          "lastCheck":  "2026-10-25 19:09:50"
+                          "lastCheck":  "2026-10-25 19:14:49"
                       },
                       {
                           "location":  "V_Lucenec",
-                          "status":  "DOWN",
-                          "latency":  null,
-                          "lastCheck":  "2026-10-25 19:09:50"
+                          "status":  "UP",
+                          "latency":  29,
+                          "lastCheck":  "2026-10-25 19:14:49"
                       },
                       {
                           "location":  "V_Michalovce",
-                          "status":  "DOWN",
-                          "latency":  null,
-                          "lastCheck":  "2026-10-25 19:09:50"
+                          "status":  "UP",
+                          "latency":  30,
+                          "lastCheck":  "2026-10-25 19:14:49"
                       },
                       {
                           "location":  "V_Roznava",
-                          "status":  "DOWN",
-                          "latency":  null,
-                          "lastCheck":  "2026-10-25 19:09:50"
+                          "status":  "UP",
+                          "latency":  27,
+                          "lastCheck":  "2026-10-25 19:14:49"
                       },
                       {
                           "location":  "V_Ruzomberok",
-                          "status":  "DOWN",
-                          "latency":  null,
-                          "lastCheck":  "2026-10-25 19:09:50"
+                          "status":  "UP",
+                          "latency":  9,
+                          "lastCheck":  "2026-10-25 19:14:49"
                       },
                       {
                           "location":  "V_StaraLubovna",
-                          "status":  "DOWN",
-                          "latency":  null,
-                          "lastCheck":  "2026-10-25 19:09:50"
+                          "status":  "UP",
+                          "latency":  32,
+                          "lastCheck":  "2026-10-25 19:14:49"
                       },
                       {
                           "location":  "V_Stropkov",
-                          "status":  "DOWN",
-                          "latency":  null,
-                          "lastCheck":  "2026-10-25 19:09:50"
+                          "status":  "UP",
+                          "latency":  33,
+                          "lastCheck":  "2026-10-25 19:14:49"
                       },
                       {
                           "location":  "V_SpisskaNovaVes",
-                          "status":  "DOWN",
-                          "latency":  null,
-                          "lastCheck":  "2026-10-25 19:09:50"
+                          "status":  "UP",
+                          "latency":  10,
+                          "lastCheck":  "2026-10-25 19:14:49"
                       },
                       {
                           "location":  "V_Trebisov",
-                          "status":  "DOWN",
-                          "latency":  null,
-                          "lastCheck":  "2026-10-25 19:09:50"
+                          "status":  "UP",
+                          "latency":  10,
+                          "lastCheck":  "2026-10-25 19:14:49"
                       },
                       {
                           "location":  "V_Zvolen",
-                          "status":  "DOWN",
-                          "latency":  null,
-                          "lastCheck":  "2026-10-25 19:09:50"
+                          "status":  "UP",
+                          "latency":  27,
+                          "lastCheck":  "2026-10-25 19:14:49"
                       },
                       {
                           "location":  "Z_Cadca",
-                          "status":  "DOWN",
-                          "latency":  null,
-                          "lastCheck":  "2026-10-25 19:09:50"
+                          "status":  "UP",
+                          "latency":  7,
+                          "lastCheck":  "2026-10-25 19:14:49"
                       },
                       {
                           "location":  "Z_DKubin",
-                          "status":  "DOWN",
-                          "latency":  null,
-                          "lastCheck":  "2026-10-25 19:09:50"
+                          "status":  "UP",
+                          "latency":  28,
+                          "lastCheck":  "2026-10-25 19:14:49"
                       },
                       {
                           "location":  "Z_DunajskaStreda",
-                          "status":  "DOWN",
-                          "latency":  null,
-                          "lastCheck":  "2026-10-25 19:09:50"
+                          "status":  "UP",
+                          "latency":  3,
+                          "lastCheck":  "2026-10-25 19:14:49"
                       },
                       {
                           "location":  "Z_Komarno",
-                          "status":  "DOWN",
-                          "latency":  null,
-                          "lastCheck":  "2026-10-25 19:09:50"
+                          "status":  "UP",
+                          "latency":  18,
+                          "lastCheck":  "2026-10-25 19:14:49"
                       },
                       {
                           "location":  "Z_Levice",
-                          "status":  "DOWN",
-                          "latency":  null,
-                          "lastCheck":  "2026-10-25 19:09:50"
+                          "status":  "UP",
+                          "latency":  149,
+                          "lastCheck":  "2026-10-25 19:14:49"
                       },
                       {
                           "location":  "Z_Martin",
-                          "status":  "DOWN",
-                          "latency":  null,
-                          "lastCheck":  "2026-10-25 19:09:50"
+                          "status":  "UP",
+                          "latency":  26,
+                          "lastCheck":  "2026-10-25 19:14:49"
                       },
                       {
                           "location":  "Z_NoveMestoNV",
-                          "status":  "DOWN",
-                          "latency":  null,
-                          "lastCheck":  "2026-10-25 19:09:50"
+                          "status":  "UP",
+                          "latency":  21,
+                          "lastCheck":  "2026-10-25 19:14:49"
                       },
                       {
                           "location":  "Z_NoveZamky",
-                          "status":  "DOWN",
-                          "latency":  null,
-                          "lastCheck":  "2026-10-25 19:09:50"
+                          "status":  "UP",
+                          "latency":  25,
+                          "lastCheck":  "2026-10-25 19:14:49"
                       },
                       {
                           "location":  "Z_Piestany",
-                          "status":  "DOWN",
-                          "latency":  null,
-                          "lastCheck":  "2026-10-25 19:09:50"
+                          "status":  "UP",
+                          "latency":  32,
+                          "lastCheck":  "2026-10-25 19:14:49"
                       },
                       {
                           "location":  "Z_Prievidza",
-                          "status":  "DOWN",
-                          "latency":  null,
-                          "lastCheck":  "2026-10-25 19:09:50"
+                          "status":  "UP",
+                          "latency":  6,
+                          "lastCheck":  "2026-10-25 19:14:49"
                       },
                       {
                           "location":  "Z_Puchov",
-                          "status":  "DOWN",
-                          "latency":  null,
-                          "lastCheck":  "2026-10-25 19:09:50"
+                          "status":  "UP",
+                          "latency":  26,
+                          "lastCheck":  "2026-10-25 19:14:49"
                       },
                       {
                           "location":  "Z_Sala",
-                          "status":  "DOWN",
-                          "latency":  null,
-                          "lastCheck":  "2026-10-25 19:09:50"
+                          "status":  "UP",
+                          "latency":  25,
+                          "lastCheck":  "2026-10-25 19:14:49"
                       },
                       {
                           "location":  "Z_Senica",
-                          "status":  "DOWN",
-                          "latency":  null,
-                          "lastCheck":  "2026-10-25 19:09:50"
+                          "status":  "UP",
+                          "latency":  26,
+                          "lastCheck":  "2026-10-25 19:14:49"
                       },
                       {
                           "location":  "Z_Skalica",
-                          "status":  "DOWN",
-                          "latency":  null,
-                          "lastCheck":  "2026-10-25 19:09:50"
+                          "status":  "UP",
+                          "latency":  21,
+                          "lastCheck":  "2026-10-25 19:14:49"
                       },
                       {
                           "location":  "Z_Topolcany",
-                          "status":  "DOWN",
-                          "latency":  null,
-                          "lastCheck":  "2026-10-25 19:09:50"
+                          "status":  "UP",
+                          "latency":  28,
+                          "lastCheck":  "2026-10-25 19:14:49"
                       },
                       {
                           "location":  "Z_ZiarNadHronom",
-                          "status":  "DOWN",
-                          "latency":  null,
-                          "lastCheck":  "2026-10-25 19:09:50"
+                          "status":  "UP",
+                          "latency":  7,
+                          "lastCheck":  "2026-10-25 19:14:49"
                       },
                       {
                           "location":  "ZA",
-                          "status":  "DOWN",
-                          "latency":  null,
-                          "lastCheck":  "2026-10-25 19:09:50"
+                          "status":  "UP",
+                          "latency":  7,
+                          "lastCheck":  "2026-10-25 19:14:49"
                       }
                   ],
-    "generatedAt":  "2026-10-25 19:09:50"
+    "generatedAt":  "2026-10-25 19:14:49"
 }
