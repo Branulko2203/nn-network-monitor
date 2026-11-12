@@ -13,7 +13,7 @@
                           "latency":  24,
                           "firstFailureAt":  null,
                           "confirmedOfflineAt":  null,
-                          "lastCheck":  "2026-11-12 03:24:49"
+                          "lastCheck":  "2026-11-12 03:29:49"
                       },
                       {
                           "location":  "BA-Plynarenska",
@@ -28,7 +28,7 @@
                           "latency":  2,
                           "firstFailureAt":  null,
                           "confirmedOfflineAt":  null,
-                          "lastCheck":  "2026-11-12 03:24:49"
+                          "lastCheck":  "2026-11-12 03:29:49"
                       },
                       {
                           "location":  "BB",
@@ -43,7 +43,7 @@
                           "latency":  26,
                           "firstFailureAt":  null,
                           "confirmedOfflineAt":  null,
-                          "lastCheck":  "2026-11-12 03:24:49"
+                          "lastCheck":  "2026-11-12 03:29:49"
                       },
                       {
                           "location":  "KE",
@@ -55,10 +55,10 @@
                           "consecutiveSuccesses":  0,
                           "confirmationThreshold":  3,
                           "recoveryThreshold":  2,
-                          "latency":  9,
+                          "latency":  8,
                           "firstFailureAt":  null,
                           "confirmedOfflineAt":  null,
-                          "lastCheck":  "2026-11-12 03:24:49"
+                          "lastCheck":  "2026-11-12 03:29:49"
                       },
                       {
                           "location":  "NR",
@@ -70,10 +70,10 @@
                           "consecutiveSuccesses":  0,
                           "confirmationThreshold":  3,
                           "recoveryThreshold":  2,
-                          "latency":  25,
+                          "latency":  26,
                           "firstFailureAt":  null,
                           "confirmedOfflineAt":  null,
-                          "lastCheck":  "2026-11-12 03:24:49"
+                          "lastCheck":  "2026-11-12 03:29:49"
                       },
                       {
                           "location":  "PO",
@@ -85,10 +85,10 @@
                           "consecutiveSuccesses":  0,
                           "confirmationThreshold":  3,
                           "recoveryThreshold":  2,
-                          "latency":  17,
+                          "latency":  18,
                           "firstFailureAt":  null,
                           "confirmedOfflineAt":  null,
-                          "lastCheck":  "2026-11-12 03:24:49"
+                          "lastCheck":  "2026-11-12 03:29:49"
                       },
                       {
                           "location":  "PP",
@@ -100,10 +100,10 @@
                           "consecutiveSuccesses":  0,
                           "confirmationThreshold":  3,
                           "recoveryThreshold":  2,
-                          "latency":  31,
+                          "latency":  30,
                           "firstFailureAt":  null,
                           "confirmedOfflineAt":  null,
-                          "lastCheck":  "2026-11-12 03:24:49"
+                          "lastCheck":  "2026-11-12 03:29:49"
                       },
                       {
                           "location":  "TN",
@@ -118,7 +118,7 @@
                           "latency":  30,
                           "firstFailureAt":  null,
                           "confirmedOfflineAt":  null,
-                          "lastCheck":  "2026-11-12 03:24:49"
+                          "lastCheck":  "2026-11-12 03:29:49"
                       },
                       {
                           "location":  "TT",
@@ -133,7 +133,7 @@
                           "latency":  24,
                           "firstFailureAt":  null,
                           "confirmedOfflineAt":  null,
-                          "lastCheck":  "2026-11-12 03:24:49"
+                          "lastCheck":  "2026-11-12 03:29:49"
                       },
                       {
                           "location":  "V_Bardejov",
@@ -148,7 +148,7 @@
                           "latency":  33,
                           "firstFailureAt":  null,
                           "confirmedOfflineAt":  null,
-                          "lastCheck":  "2026-11-12 03:24:49"
+                          "lastCheck":  "2026-11-12 03:29:49"
                       },
                       {
                           "location":  "V_Brezno",
@@ -160,10 +160,10 @@
                           "consecutiveSuccesses":  0,
                           "confirmationThreshold":  3,
                           "recoveryThreshold":  2,
-                          "latency":  27,
+                          "latency":  26,
                           "firstFailureAt":  null,
                           "confirmedOfflineAt":  null,
-                          "lastCheck":  "2026-11-12 03:24:49"
+                          "lastCheck":  "2026-11-12 03:29:49"
                       },
                       {
                           "location":  "V_Humenne",
@@ -175,10 +175,10 @@
                           "consecutiveSuccesses":  0,
                           "confirmationThreshold":  3,
                           "recoveryThreshold":  2,
-                          "latency":  31,
+                          "latency":  32,
                           "firstFailureAt":  null,
                           "confirmedOfflineAt":  null,
-                          "lastCheck":  "2026-11-12 03:24:49"
+                          "lastCheck":  "2026-11-12 03:29:49"
                       },
                       {
                           "location":  "V_LiptovskyMikulas",
@@ -190,10 +190,10 @@
                           "consecutiveSuccesses":  0,
                           "confirmationThreshold":  3,
                           "recoveryThreshold":  2,
-                          "latency":  34,
+                          "latency":  25,
                           "firstFailureAt":  null,
                           "confirmedOfflineAt":  null,
-                          "lastCheck":  "2026-11-12 03:24:49"
+                          "lastCheck":  "2026-11-12 03:29:49"
                       },
                       {
                           "location":  "V_Lucenec",
@@ -205,10 +205,10 @@
                           "consecutiveSuccesses":  0,
                           "confirmationThreshold":  3,
                           "recoveryThreshold":  2,
-                          "latency":  28,
+                          "latency":  29,
                           "firstFailureAt":  null,
                           "confirmedOfflineAt":  null,
-                          "lastCheck":  "2026-11-12 03:24:49"
+                          "lastCheck":  "2026-11-12 03:29:49"
                       },
                       {
                           "location":  "V_Michalovce",
@@ -223,7 +223,7 @@
                           "latency":  29,
                           "firstFailureAt":  null,
                           "confirmedOfflineAt":  null,
-                          "lastCheck":  "2026-11-12 03:24:49"
+                          "lastCheck":  "2026-11-12 03:29:49"
                       },
                       {
                           "location":  "V_Roznava",
@@ -235,10 +235,10 @@
                           "consecutiveSuccesses":  0,
                           "confirmationThreshold":  3,
                           "recoveryThreshold":  2,
-                          "latency":  27,
+                          "latency":  28,
                           "firstFailureAt":  null,
                           "confirmedOfflineAt":  null,
-                          "lastCheck":  "2026-11-12 03:24:49"
+                          "lastCheck":  "2026-11-12 03:29:49"
                       },
                       {
                           "location":  "V_Ruzomberok",
@@ -253,7 +253,7 @@
                           "latency":  9,
                           "firstFailureAt":  null,
                           "confirmedOfflineAt":  null,
-                          "lastCheck":  "2026-11-12 03:24:49"
+                          "lastCheck":  "2026-11-12 03:29:49"
                       },
                       {
                           "location":  "V_StaraLubovna",
@@ -268,7 +268,7 @@
                           "latency":  32,
                           "firstFailureAt":  null,
                           "confirmedOfflineAt":  null,
-                          "lastCheck":  "2026-11-12 03:24:49"
+                          "lastCheck":  "2026-11-12 03:29:49"
                       },
                       {
                           "location":  "V_Stropkov",
@@ -283,7 +283,7 @@
                           "latency":  32,
                           "firstFailureAt":  null,
                           "confirmedOfflineAt":  null,
-                          "lastCheck":  "2026-11-12 03:24:49"
+                          "lastCheck":  "2026-11-12 03:29:49"
                       },
                       {
                           "location":  "V_SpisskaNovaVes",
@@ -298,7 +298,7 @@
                           "latency":  10,
                           "firstFailureAt":  null,
                           "confirmedOfflineAt":  null,
-                          "lastCheck":  "2026-11-12 03:24:49"
+                          "lastCheck":  "2026-11-12 03:29:49"
                       },
                       {
                           "location":  "V_Trebisov",
@@ -310,10 +310,10 @@
                           "consecutiveSuccesses":  0,
                           "confirmationThreshold":  3,
                           "recoveryThreshold":  2,
-                          "latency":  54,
+                          "latency":  10,
                           "firstFailureAt":  null,
                           "confirmedOfflineAt":  null,
-                          "lastCheck":  "2026-11-12 03:24:49"
+                          "lastCheck":  "2026-11-12 03:29:49"
                       },
                       {
                           "location":  "V_Zvolen",
@@ -328,7 +328,7 @@
                           "latency":  26,
                           "firstFailureAt":  null,
                           "confirmedOfflineAt":  null,
-                          "lastCheck":  "2026-11-12 03:24:49"
+                          "lastCheck":  "2026-11-12 03:29:49"
                       },
                       {
                           "location":  "Z_Cadca",
@@ -340,10 +340,10 @@
                           "consecutiveSuccesses":  0,
                           "confirmationThreshold":  3,
                           "recoveryThreshold":  2,
-                          "latency":  8,
+                          "latency":  9,
                           "firstFailureAt":  null,
                           "confirmedOfflineAt":  null,
-                          "lastCheck":  "2026-11-12 03:24:49"
+                          "lastCheck":  "2026-11-12 03:29:49"
                       },
                       {
                           "location":  "Z_DKubin",
@@ -355,10 +355,10 @@
                           "consecutiveSuccesses":  0,
                           "confirmationThreshold":  3,
                           "recoveryThreshold":  2,
-                          "latency":  29,
+                          "latency":  28,
                           "firstFailureAt":  null,
                           "confirmedOfflineAt":  null,
-                          "lastCheck":  "2026-11-12 03:24:49"
+                          "lastCheck":  "2026-11-12 03:29:49"
                       },
                       {
                           "location":  "Z_DunajskaStreda",
@@ -370,10 +370,10 @@
                           "consecutiveSuccesses":  0,
                           "confirmationThreshold":  3,
                           "recoveryThreshold":  2,
-                          "latency":  4,
+                          "latency":  3,
                           "firstFailureAt":  null,
                           "confirmedOfflineAt":  null,
-                          "lastCheck":  "2026-11-12 03:24:49"
+                          "lastCheck":  "2026-11-12 03:29:49"
                       },
                       {
                           "location":  "Z_Komarno",
@@ -388,7 +388,7 @@
                           "latency":  19,
                           "firstFailureAt":  null,
                           "confirmedOfflineAt":  null,
-                          "lastCheck":  "2026-11-12 03:24:49"
+                          "lastCheck":  "2026-11-12 03:29:49"
                       },
                       {
                           "location":  "Z_Levice",
@@ -400,10 +400,10 @@
                           "consecutiveSuccesses":  0,
                           "confirmationThreshold":  3,
                           "recoveryThreshold":  2,
-                          "latency":  14,
+                          "latency":  19,
                           "firstFailureAt":  null,
                           "confirmedOfflineAt":  null,
-                          "lastCheck":  "2026-11-12 03:24:49"
+                          "lastCheck":  "2026-11-12 03:29:49"
                       },
                       {
                           "location":  "Z_Martin",
@@ -418,7 +418,7 @@
                           "latency":  26,
                           "firstFailureAt":  null,
                           "confirmedOfflineAt":  null,
-                          "lastCheck":  "2026-11-12 03:24:49"
+                          "lastCheck":  "2026-11-12 03:29:49"
                       },
                       {
                           "location":  "Z_NoveMestoNV",
@@ -430,10 +430,10 @@
                           "consecutiveSuccesses":  0,
                           "confirmationThreshold":  3,
                           "recoveryThreshold":  2,
-                          "latency":  21,
+                          "latency":  20,
                           "firstFailureAt":  null,
                           "confirmedOfflineAt":  null,
-                          "lastCheck":  "2026-11-12 03:24:49"
+                          "lastCheck":  "2026-11-12 03:29:49"
                       },
                       {
                           "location":  "Z_NoveZamky",
@@ -448,7 +448,7 @@
                           "latency":  25,
                           "firstFailureAt":  null,
                           "confirmedOfflineAt":  null,
-                          "lastCheck":  "2026-11-12 03:24:49"
+                          "lastCheck":  "2026-11-12 03:29:49"
                       },
                       {
                           "location":  "Z_Piestany",
@@ -463,7 +463,7 @@
                           "latency":  24,
                           "firstFailureAt":  null,
                           "confirmedOfflineAt":  null,
-                          "lastCheck":  "2026-11-12 03:24:49"
+                          "lastCheck":  "2026-11-12 03:29:49"
                       },
                       {
                           "location":  "Z_Prievidza",
@@ -478,7 +478,7 @@
                           "latency":  6,
                           "firstFailureAt":  null,
                           "confirmedOfflineAt":  null,
-                          "lastCheck":  "2026-11-12 03:24:49"
+                          "lastCheck":  "2026-11-12 03:29:49"
                       },
                       {
                           "location":  "Z_Puchov",
@@ -493,7 +493,7 @@
                           "latency":  28,
                           "firstFailureAt":  null,
                           "confirmedOfflineAt":  null,
-                          "lastCheck":  "2026-11-12 03:24:49"
+                          "lastCheck":  "2026-11-12 03:29:49"
                       },
                       {
                           "location":  "Z_Sala",
@@ -505,10 +505,10 @@
                           "consecutiveSuccesses":  0,
                           "confirmationThreshold":  3,
                           "recoveryThreshold":  2,
-                          "latency":  24,
+                          "latency":  25,
                           "firstFailureAt":  null,
                           "confirmedOfflineAt":  null,
-                          "lastCheck":  "2026-11-12 03:24:49"
+                          "lastCheck":  "2026-11-12 03:29:49"
                       },
                       {
                           "location":  "Z_Senica",
@@ -523,7 +523,7 @@
                           "latency":  25,
                           "firstFailureAt":  null,
                           "confirmedOfflineAt":  null,
-                          "lastCheck":  "2026-11-12 03:24:49"
+                          "lastCheck":  "2026-11-12 03:29:49"
                       },
                       {
                           "location":  "Z_Skalica",
@@ -535,10 +535,10 @@
                           "consecutiveSuccesses":  0,
                           "confirmationThreshold":  3,
                           "recoveryThreshold":  2,
-                          "latency":  20,
+                          "latency":  21,
                           "firstFailureAt":  null,
                           "confirmedOfflineAt":  null,
-                          "lastCheck":  "2026-11-12 03:24:49"
+                          "lastCheck":  "2026-11-12 03:29:49"
                       },
                       {
                           "location":  "Z_Topolcany",
@@ -553,7 +553,7 @@
                           "latency":  28,
                           "firstFailureAt":  null,
                           "confirmedOfflineAt":  null,
-                          "lastCheck":  "2026-11-12 03:24:49"
+                          "lastCheck":  "2026-11-12 03:29:49"
                       },
                       {
                           "location":  "Z_ZiarNadHronom",
@@ -568,7 +568,7 @@
                           "latency":  8,
                           "firstFailureAt":  null,
                           "confirmedOfflineAt":  null,
-                          "lastCheck":  "2026-11-12 03:24:49"
+                          "lastCheck":  "2026-11-12 03:29:49"
                       },
                       {
                           "location":  "ZA",
@@ -583,8 +583,8 @@
                           "latency":  7,
                           "firstFailureAt":  null,
                           "confirmedOfflineAt":  null,
-                          "lastCheck":  "2026-11-12 03:24:49"
+                          "lastCheck":  "2026-11-12 03:29:49"
                       }
                   ],
-    "generatedAt":  "2026-11-12 03:24:49"
+    "generatedAt":  "2026-11-12 03:29:49"
 }
